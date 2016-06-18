@@ -1,0 +1,8 @@
+.letterBlock {
+    width: 40px;
+    display: inline-flex;
+}
+
+.marginl{
+    margin-left: 10px;
+}   
